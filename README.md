@@ -20,7 +20,7 @@
 
 #### Developer Email : <a href="email:ghsjulian@outlook.com" target="_blank"> ghsjulian@outlook.com </a>
 
-#### Live Demo : <a href="https://auth-app-ie66.onrender.com" target="_blank">View Demo </a>
+#### Live Demo : <a href="https://ghsjulian.github.io/frog-shooter" target="_blank">View Demo </a>
 
 #### Start Date : 15 August 2025
 
